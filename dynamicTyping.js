@@ -3,8 +3,8 @@
 // dynamic programming languages: the type of a variable can be changed at runtime
 
 // in js we use typeof operator to find the type of a variable
-let name = "Lucky";
-console.log(typeof name);
+let myName = "Lucky";
+console.log(typeof myName);
 
 let age = 18;
 console.log(typeof age);
