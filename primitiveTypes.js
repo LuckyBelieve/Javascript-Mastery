@@ -1,6 +1,6 @@
 // we have two categories of data types
 // primitive types <string,number,boolean and undefined,null>
-// reference types <>
+// reference types <objects ,arrays and functions>
 
 // primitive types
 let name = "Lucky"; //string literal
