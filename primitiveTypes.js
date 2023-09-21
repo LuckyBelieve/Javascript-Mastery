@@ -4,7 +4,7 @@
 
 // primitive types
 let name = "Lucky"; //string literal
-let age = "18"; //Number literal
+let age = 18; //Number literal
 let isApproved = true; //boolean literal <true or false>
 let firstName = undefined; //undefined literal
 let lastName = null; //null literal
