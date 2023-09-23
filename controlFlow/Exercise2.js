@@ -2,7 +2,7 @@
 
 function Fizzbuzz(input) {
   return typeof input !== "number"
-    ? "not a number"
+    ? NaN
     : input % 3 === 0 && input % 5 === 0
     ? "FizzBuzz"
     : input % 5 === 0
